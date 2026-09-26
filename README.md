@@ -52,11 +52,15 @@ graph TD
 
 ## 📸 Visualizing the Application
 
-*(Recruiters/Hiring Managers: You can add screenshots or a GIF here to show the UI without requiring local setup)*
+*(Recruiters/Hiring Managers: Here is a look at the application in action)*
 
-- **Mesh Visualizer:** Watch packets hop from device to device.
-- **Global Ledger:** Real-time verifiable transaction settlement.
-- **Account Balances:** Atomic balance updates.
+### Dashboard & Mesh Visualizer
+![Mesh Visualizer](https://placehold.co/800x400/1e293b/ffffff?text=Mesh+Visualizer+Screenshot)
+*The visualizer tracks offline packets as they hop from device to device before reaching the Bridge Node.*
+
+### Global Ledger & Account Balances
+![Ledger](https://placehold.co/800x400/1e293b/ffffff?text=Global+Ledger+Screenshot)
+*Real-time verifiable transaction settlement and atomic balance updates.*
 
 ---
 
