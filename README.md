@@ -50,16 +50,6 @@ graph TD
 
 ---
 
-## 📸 Visualizing the Application
-
-*(Recruiters/Hiring Managers: Here is a look at the application in action)*
-
-### Dashboard Overview
-![Offline UPI Mesh Dashboard](./screenshot.png)
-*The comprehensive dashboard featuring the live Mesh Visualizer, Global Settlement Ledger, Account Balances, and Control Panel.*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite, Socket.io-client, Axios, TailwindCSS (via Lucide React)
