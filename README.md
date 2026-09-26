@@ -54,13 +54,9 @@ graph TD
 
 *(Recruiters/Hiring Managers: Here is a look at the application in action)*
 
-### Dashboard & Mesh Visualizer
-![Mesh Visualizer](https://placehold.co/800x400/1e293b/ffffff?text=Mesh+Visualizer+Screenshot)
-*The visualizer tracks offline packets as they hop from device to device before reaching the Bridge Node.*
-
-### Global Ledger & Account Balances
-![Ledger](https://placehold.co/800x400/1e293b/ffffff?text=Global+Ledger+Screenshot)
-*Real-time verifiable transaction settlement and atomic balance updates.*
+### Dashboard Overview
+![Offline UPI Mesh Dashboard](./screenshot.png)
+*The comprehensive dashboard featuring the live Mesh Visualizer, Global Settlement Ledger, Account Balances, and Control Panel.*
 
 ---
 
